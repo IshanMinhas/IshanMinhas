@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Minhas</h1>
-<h3 align="center">A passionate frontend developer from India who love Data Structures and Algorithms and also likes to expand his horizons in backend development.</h3>
+<h3 align="center">A passionate frontend developer from India who loves Data Structures and Algorithms and also likes to expand his horizons in backend development.</h3>
 
 - 🌱 I’m currently learning **ReactJs, NodeJs & Graphs**
 
